@@ -12,6 +12,8 @@ This repository contains multiple lab activities involving Arduino and Python. T
 - Resistor(s) (10kΩ) for Button, Photoresistor, Temperature resistor/sensor
 - LED(s)
 - Wires
+- Photoresistor
+- Temperature resistor/sensor
 
 ### Arduino Codes
 
